@@ -5,6 +5,8 @@
 * Process images data that can compatible and be able to run well with our current computer configuration.
 * Compare LOL with other dimensionality reduction methods.
 
+# Workflow
+<img width="644" alt="Screenshot 2024-08-17 at 15 12 33" src="https://github.com/user-attachments/assets/fe8bcd84-abb0-419a-aa1a-6d0ad85b14d7">
 
 # Result summary
 * Computational resource optimization is crucial. Due to our limit computing resources, project involved resizing (from 193x256x256 to 64x64x64) and flattening high-dimensional neuroimaging data. The whole workflow being test by different hardware set up among team members and the best efficiency was chosen:
